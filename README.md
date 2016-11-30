@@ -4,3 +4,8 @@ My first attempt to draw the limit set of the Kleinian groups. This project is o
 ## Requirements
 - JLaTeXMath
 - sqlite-jdbc
+
+## Reference
+- Indra's Pearls: The Vision of Felix Klein  
+David Mumford, Caroline Series and David Wright  
+Cambridge University Press in 2002
